@@ -1,0 +1,9 @@
+{
+    "yogaClasses": [{
+        "cost": 80,
+        "time": "12.00",
+        "yogaName": "hatha",
+        "day": "mon"
+    }],
+    "name": "Iris's Yoga Schedule"
+}

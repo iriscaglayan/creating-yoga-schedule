@@ -1,0 +1,17 @@
+{
+  "yogaClasses": [
+    {
+      "day": "mon",
+      "time": "12:00",
+      "yogaName": "hatha",
+      "cost": 40
+    },
+    {
+    "day": "tue",
+    "time": "12:30",
+    "yogaName": "relax",
+    "cost": 60
+    }
+  ],
+  "name": "My schedule"
+}
